@@ -1,5 +1,4 @@
 # first we need pip install google_images_download
-# link :- https://www.geeksforgeeks.org/how-to-download-google-images-using-python/
 
 # importing google_images_download module 
 from google_images_download import google_images_download 
